@@ -20,3 +20,7 @@ The dataset contains weekly sales data for 45 Walmart stores, including holiday 
 ## Key Insights
 - Holidays usually improve the overall sales of every stores, however the impact varies differently between each stores
 - Other than holidays, other factors like tempreature, fuel price, CPI and unemployment rate does not have a considerably impact on overall sales
+
+## Recommendations
+- Prioritize high-performing stores for growth initiatives.
+- Use targeted interventions for underperforming stores.
